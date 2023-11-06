@@ -117,6 +117,7 @@
     vertical-align: super;
     padding-left: 5px;
     border-bottom: 1px solid #BDC3C7; 
+     background-color: red;
   }
   
   .rowCell.merged {
