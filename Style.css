@@ -28,8 +28,8 @@
   
   .tooltipTable {
     font-family: Open Sans,Helvetica,Arial,sans-serif;
-    border: 1px;
-    border-collapse: separate;
+    border: 0px;
+    border-collapse: collapse;
     table-layout: auto;
   }
   
@@ -121,7 +121,7 @@
   }
   
    .rowCell.merged {
-    background-color: #ffffff !important;
+    background-color: #650000 !important;
   }
   
   .indexCell.transposed {
